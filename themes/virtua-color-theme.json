@@ -204,7 +204,7 @@
       "scope": ["variable.language"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#e9415d"
+        "foreground": "#ff0000"
       }
     },
     {
@@ -269,7 +269,7 @@
       "name": "Deleted",
       "scope": ["markup.deleted"],
       "settings": {
-        "foreground": "#FF5370"
+        "foreground": "#FF0000"
       }
     },
     {
@@ -308,7 +308,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#fb1946"
+        "foreground": "#ff0000"
       }
     },
     {
@@ -318,7 +318,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#FF5370"
+        "foreground": "#ff0000"
       }
     },
     {
@@ -482,7 +482,7 @@
       "name": "Markdown - Blockquote",
       "scope": ["markup.quote punctuation.definition.blockquote.markdown"],
       "settings": {
-        "foreground": "#4381b1"
+        "foreground": "#ff9900"
       }
     },
     {
